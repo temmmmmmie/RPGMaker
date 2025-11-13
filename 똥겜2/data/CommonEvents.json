@@ -1,0 +1,7 @@
+[
+null,
+{"id":1,"list":[{"code":242,"indent":0,"parameters":[1]},{"code":246,"indent":0,"parameters":[1]},{"code":201,"indent":0,"parameters":[0,5,8,6,2,0]},{"code":241,"indent":0,"parameters":[{"name":"Theme2","volume":90,"pitch":100,"pan":0}]},{"code":105,"indent":0,"parameters":[2,false]},{"code":405,"indent":0,"parameters":["까막까막"]},{"code":405,"indent":0,"parameters":["까아아악깍깍깍"]},{"code":405,"indent":0,"parameters":["까악?깍깍까아아아앙악"]},{"code":405,"indent":0,"parameters":["깍까아아아앙악깍깍깍"]},{"code":405,"indent":0,"parameters":["까악!!!!!!깍"]},{"code":405,"indent":0,"parameters":["까막깍깍"]},{"code":405,"indent":0,"parameters":["까악~ "]},{"code":405,"indent":0,"parameters":["생일깍까ㅏㅏㅏㅏㅏ 축하깍까~~~~"]},{"code":354,"indent":0,"parameters":[]},{"code":0,"indent":0,"parameters":[]}],"name":"엔딩","switchId":4,"trigger":1},
+{"id":2,"list":[{"code":0,"indent":0,"parameters":[]}],"name":"","switchId":1,"trigger":0},
+{"id":3,"list":[{"code":0,"indent":0,"parameters":[]}],"name":"","switchId":1,"trigger":0},
+{"id":4,"list":[{"code":0,"indent":0,"parameters":[]}],"name":"","switchId":1,"trigger":0}
+]
