@@ -1,0 +1,7 @@
+[
+null,
+{"id":1,"battlerName":"Actor1_1","characterIndex":0,"characterName":"!$쿸","classId":5,"equips":[1,1,2,3,0],"faceIndex":0,"faceName":"쿸","traits":[],"initialLevel":1,"maxLevel":99,"name":"쿠키","nickname":"쿠키","note":"","profile":"쿠키"},
+{"id":2,"battlerName":"","characterIndex":3,"characterName":"People1","classId":5,"equips":[0,0,0,0,0],"faceIndex":3,"faceName":"People1","traits":[],"initialLevel":1,"maxLevel":99,"name":"여자애","nickname":"여자애","note":"","profile":""},
+{"id":3,"battlerName":"","characterIndex":0,"characterName":"!$리카르도","classId":5,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"리카르도","traits":[],"initialLevel":99,"maxLevel":99,"name":"리카르도","nickname":"리카르도","note":"","profile":"ang"},
+{"id":4,"battlerName":"","characterIndex":0,"characterName":"","classId":1,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"","traits":[],"initialLevel":1,"maxLevel":99,"name":"","nickname":"","note":"","profile":""}
+]
