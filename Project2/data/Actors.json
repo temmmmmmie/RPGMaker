@@ -1,0 +1,7 @@
+[
+null,
+{"id":1,"battlerName":"Actor1_1","characterIndex":0,"characterName":"!$캡처","classId":1,"equips":[1,1,2,3,0],"faceIndex":0,"faceName":"프로필","traits":[],"initialLevel":1,"maxLevel":99,"name":"현달","nickname":"","note":"","profile":""},
+{"id":2,"battlerName":"","characterIndex":0,"characterName":"!$옷걸이5","classId":1,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"옷걸이 프필","traits":[],"initialLevel":1,"maxLevel":99,"name":"옷걸이","nickname":"","note":"","profile":""},
+{"id":3,"battlerName":"","characterIndex":0,"characterName":"!$사슬","classId":1,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"사슬 프필","traits":[],"initialLevel":1,"maxLevel":99,"name":"형","nickname":"","note":"","profile":""},
+{"id":4,"battlerName":"","characterIndex":0,"characterName":"!$얼없","classId":1,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"얼없 프필","traits":[],"initialLevel":1,"maxLevel":99,"name":"⠀","nickname":"","note":"","profile":""}
+]
